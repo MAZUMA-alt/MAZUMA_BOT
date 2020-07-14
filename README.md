@@ -1,0 +1,2 @@
+# MAZUMA_BOT
+Loyalbot
